@@ -22,6 +22,22 @@
     ]
   },
   {
+  "name": "Participatory Budgeting",
+  "thumb": "participatory-budgeting/thumb.png",
+  "desc": "Online Participatory Budgeting Web Application for Pune Municipal Corporation, India",
+  "url": "http://2014.participatorybudgeting.in",
+  "info": "http://www.participatorybudgeting.in",
+  
+  "submitter": "vishwajeetv",
+  "submissionDate": "2014-09-27",
+  "tags": [
+    "Production",
+    "Government",
+    "Animations",
+    "jQuery"
+  ]
+},
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
